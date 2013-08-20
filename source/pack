@@ -1,4 +1,0 @@
-cd bin
-jar cvfm uber.jar ./manifest *.class
-mv uber.jar ../
-cd ../ 
